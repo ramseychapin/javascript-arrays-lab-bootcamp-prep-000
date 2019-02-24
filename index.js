@@ -32,7 +32,7 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-
+  var result = 
 }
 
 function removeFirstKitten() {
